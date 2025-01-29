@@ -35,6 +35,11 @@ Unsupervised learning is a type of machine learning that learns from unlabeled d
 ![image](https://github.com/user-attachments/assets/c7dae6c7-fb2c-4e0b-a859-e37090d80a2a)
 
 
+# Question : 
+![image](https://github.com/user-attachments/assets/9fcb14fc-1e5d-49c8-b5ae-ff78b3ef002f)
+
+
+
 
 
 
