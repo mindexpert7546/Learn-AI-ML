@@ -17,4 +17,8 @@ Supervised learning is a type of machine learning algorithm that learns from lab
 
 ![image](https://github.com/user-attachments/assets/2846b1f9-1f53-4084-9ab1-8716a078f894)
 
+#### Overview of Supervised Learning : 
+![image](https://github.com/user-attachments/assets/df785ed9-29fc-4a27-bf30-60a64eb62b0c)
+
+
 
