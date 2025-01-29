@@ -24,6 +24,9 @@ Supervised learning is a type of machine learning algorithm that learns from lab
 Unsupervised learning is a type of machine learning that learns from unlabeled data. This means that the data does not have any pre-existing labels or categories. The goal of unsupervised learning is to discover patterns and relationships in the data without any explicit guidance.
 ![image](https://github.com/user-attachments/assets/d060df4a-8f5f-41d0-8d7e-8a1154082c2e)
 
+![image](https://github.com/user-attachments/assets/2cd37a41-f856-4b2f-9a63-2f6ccc2f2c4e)
+
+
 
 
 
