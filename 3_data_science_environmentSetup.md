@@ -20,6 +20,11 @@ conda create --prefix ./env pandas numpy matplotlib scikit-learn
 #### Activate or Deactivate : 
 ![image](https://github.com/user-attachments/assets/f17f4e0c-4386-4d5e-8f40-d521d98d4ac4)
 
+#### Install Jupyter NoteBook :
+```
+conda install jupyter
+```
+
  
 
 
