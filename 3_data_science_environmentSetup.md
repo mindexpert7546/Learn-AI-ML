@@ -9,6 +9,19 @@
 ![image](https://github.com/user-attachments/assets/1e326045-34cf-47bc-a2ad-0c07ecdfe80a)
 ![image](https://github.com/user-attachments/assets/8f265e70-c793-431d-9a2d-153ebf25a851)
 #### MiniConda Download link : https://docs.anaconda.com/miniconda/install/
+### Create the work environment : 
+#### Open the anaconda Prompt : 
+```
+mkdir sample_project
+conda create --prefix ./env pandas numpy matplotlib scikit-learn
+
+```
+
+#### Activate or Deactivate : 
+![image](https://github.com/user-attachments/assets/f17f4e0c-4386-4d5e-8f40-d521d98d4ac4)
+
+ 
+
 
 
 
