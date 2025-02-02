@@ -38,3 +38,13 @@ dependencies:
 
 ## Conda doc on share : 
 [Uploading 10.1 Conda documentation on sharing an environment.html…]()<script type="text/javascript">window.location = "https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment";</script>
+
+# Jupyter Notebook Tutorial : 
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
+# Jupyter Notebook Doc. : 
+https://jupyter-notebook.readthedocs.io/en/stable/
+
+# 6 Steps ML Framwork : 
+![11 4 6-step-ml-framework](https://github.com/user-attachments/assets/639abf80-a106-454f-9607-dd7144ed067e)
+
