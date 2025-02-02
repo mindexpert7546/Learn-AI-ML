@@ -1,3 +1,7 @@
+### Zero to Mastery ML : 
+https://github.com/mrdbourke/zero-to-mastery-ml
+
+
 #### Elementry of AI : https://www.elementsofai.com/
 
 #### Linkedln private ZTM : https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fgroups%2F12121940%2F
