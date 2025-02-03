@@ -13,3 +13,6 @@ https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 
 ### introduction-to-pandas-video
 https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas-video.ipynb
+
+ ![image](https://github.com/user-attachments/assets/40271e83-ab78-46ee-b0a0-c10e3d57c33c)
+
